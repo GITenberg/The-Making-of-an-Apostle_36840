@@ -1,0 +1,27 @@
+_repo: The-Making-of-an-Apostle_36840
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campbell, R. J. (Reginald John)
+    alias: Campbell, Reginald John
+    birthdate: 1867
+    deathdate: 1956
+    gutenberg_agent_id: '32726'
+    url: http://www.gutenberg.org/2009/agents/32726
+description: ''
+gutenberg_issued: '2011-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peter, the Apostle, Saint'
+- !lcc 'BS'
+title: The Making of an Apostle
+url: http://www.gutenberg.org/ebooks/36840
